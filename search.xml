@@ -14,6 +14,20 @@
       </tags>
   </entry>
   <entry>
+    <title>img</title>
+    <url>/img/</url>
+    <content><![CDATA[<p><img src="/images/image.jpg" alt="img"></p>
+]]></content>
+      <categories>
+        <category>img</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>分享</tag>
+        <tag>评论</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>佳文</title>
     <url>/poem/</url>
     <content><![CDATA[<p>一个人总是可以善待他毫不在意的人。——奥斯卡·王尔德《夜莺与玫瑰》<br>那些听不见音乐的人，都以为那些跳舞的人疯了——亨利·帕格森《笑的研究》<br>奇怪的动物都被保护起来，奇怪的人却遭受排挤。——伊坂幸福太郎《阳光劫匪》<br>“怎样算欺凌？”<br>“十个人欺负一个人算欺凌，一百个人欺负一个人也是。”<br>“那么一万个人呢？”<br>“是正义啊。”——寺山修司《世界命题》<br>他们举起了键盘，以为自己是至高无上的神；他们张开了嘴，以为自己站在道德的制高点。——佚名<br>冤枉你的人比你更知道你有多冤枉。——郭德纲<br>很多人觉得他们在思考，而事实上他们只是在重新整理自己的偏见。——威廉·詹姆斯</p>
