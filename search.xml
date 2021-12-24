@@ -15,11 +15,11 @@
       </tags>
   </entry>
   <entry>
-    <title>video</title>
-    <url>/video/</url>
-    <content><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=549529630&bvid=BV1ri4y1o79R&cid=453420708&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <title>music</title>
+    <url>/music/</url>
+    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=6766661664&auto=1&height=430"></iframe>]]></content>
       <categories>
-        <category>vidio</category>
+        <category>music</category>
       </categories>
       <tags>
         <tag>导航</tag>
@@ -44,11 +44,11 @@
       </tags>
   </entry>
   <entry>
-    <title>music</title>
-    <url>/music/</url>
-    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=6766661664&auto=1&height=430"></iframe>]]></content>
+    <title>video</title>
+    <url>/video/</url>
+    <content><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=549529630&bvid=BV1ri4y1o79R&cid=453420708&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
       <categories>
-        <category>music</category>
+        <category>vidio</category>
       </categories>
       <tags>
         <tag>导航</tag>
