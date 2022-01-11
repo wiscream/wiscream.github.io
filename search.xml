@@ -19,7 +19,11 @@
   <entry>
     <title>video</title>
     <url>/video/</url>
-    <content><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=549529630&bvid=BV1ri4y1o79R&cid=453420708&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=549529630&bvid=BV1ri4y1o79R&cid=453420708&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=934365171&bvid=BV1dM4y1A7Dh&cid=447207985&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+]]></content>
       <categories>
         <category>vidio</category>
       </categories>
